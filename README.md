@@ -26,11 +26,11 @@ A terminal-based banking management system built in Python to safely simulate co
 6. Exit
 
 Enter your choice: 1
-Enter your name: Debashish Roy
+Enter your name: Deb
 Enter opening deposit: 5000
 Account created successfully! Your Account Number is: 1001
 
 Enter your choice: 4
 Enter account number: 1001
-Account Holder: Debashish Roy
+Account Holder: Deb
 Current Balance: ₹5,000
